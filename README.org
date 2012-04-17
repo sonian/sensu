@@ -1,3 +1,3 @@
 * We Moved!
-Sensu has moved to its own GitHub organization, you can find the new
+Sensu has moved to [[https://github.com/sensu][its own GitHub organization]], you can find the new
 repository [[https://github.com/sensu/sensu][HERE]].
